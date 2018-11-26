@@ -14,6 +14,7 @@ namespace _1.SingleResponsibilityPrinciple.HowTo
             _userNameService = userNameService;
             _emailService = emailService;
         }
+
         public void SendInvite(string email, string firstName, string lastName)
         {
             _userNameService.Validate(firstName, lastName);

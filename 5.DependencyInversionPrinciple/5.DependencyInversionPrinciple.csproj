@@ -6,4 +6,9 @@
     <RootNamespace>_5.DependencyInversionPrinciple</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="HowNotTo\" />
+    <Folder Include="HowTo\" />
+  </ItemGroup>
+
 </Project>
