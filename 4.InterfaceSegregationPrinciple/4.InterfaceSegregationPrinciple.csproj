@@ -6,9 +6,4 @@
     <RootNamespace>_4.InterfaceSegregationPrinciple</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="HowNotTo\" />
-    <Folder Include="HowTo\" />
-  </ItemGroup>
-
 </Project>
